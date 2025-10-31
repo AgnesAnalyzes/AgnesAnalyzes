@@ -7,8 +7,8 @@
 ---
 
 ## 🔧 Skills & Tools
-- **Python** (pandas, matplotlib, seaborn)
-- **SQL** (PostgreSQL, MySQL)
+- **Python** (pandas, matplotlib, seaborn – in progress)
+- **SQL** (PostgreSQL, MySQL – in progress)
 - **Excel** (data cleaning, pivot tables)
 - **Visualization** (Power BI, Tableau – in progress)
 
@@ -22,7 +22,7 @@
   Demonstrates logic building, control flow, and user interaction in Python.  
   *(Future version: store and analyze ticket data for practice in data cleaning and visualization.)*  
 
-- 🧠 **Job Mobility in Germany** — sociological research project based on SOEP data.  
+- 🧠 **Job Mobility in Germany** — Master Thesis: sociological research project based on SOEP data.  
   Master’s thesis on how the quality of part-time work influences transitions into standard employment.  
   Included statistical modeling and longitudinal data analysis (Stata).  
 
@@ -33,7 +33,7 @@
 ---
 
 ## 🎓 Certificates
-- Udemy: Python, SQL & Excel for Data Analysis  
+- Udemy: Statistics & Excel for Data Analysis  
 - Data Analyst (Data Science Institute, Oct 2025 – Mar 2026)  
 
 ---
