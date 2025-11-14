@@ -18,17 +18,19 @@
 
 *(Currently building my portfolio as part of a 6-month Data Analyst program — first projects below.)*  
 
-- 🎟 **Ticket Machine (Python)** — small programming project simulating a ticket vending process.  
-  Demonstrates logic building, control flow, and user interaction in Python.  
-  *(Future version: store and analyze ticket data for practice in data cleaning and visualization.)*  
+- **HAL 9000 — Rock–Paper–Scissors Game** - story-driven Rock–Paper–Scissors game inspired by 2001: A Space Odyssey.
+  Shows logic building, conditional structures, randomness, state tracking, and user interaction in Python.
 
-- 🧠 **Job Mobility in Germany** — Master Thesis: sociological research project based on SOEP data.  
+- **Calculator (Python)** — interactive console calculator supporting basic arithmetic operations.
+  Demonstrates input validation, error handling, type conversion, and control flow in Python.
+  
+- **Ticket Machine (Python)** — small programming project simulating a ticket vending process.  
+  Demonstrates logic building, control flow, and user interaction in Python.  
+
+- **Job Mobility in Germany** — Master Thesis: sociological research project based on SOEP data.  
   Master’s thesis on how the quality of part-time work influences transitions into standard employment.  
   Included statistical modeling and longitudinal data analysis (Stata).  
 
-- 💼 **Capstone Project (in progress)** — applied data analysis project to be completed during my Data Analyst training (Oct 2025 – Mar 2026).  
-
-- 📊 **Open Data Exploration (planned)** — exploratory analyses using public datasets (e.g. Eurostat, Kaggle, Our World in Data) in Python and SQL.
 
 ---
 
