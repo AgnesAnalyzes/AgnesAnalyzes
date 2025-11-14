@@ -18,6 +18,9 @@
 
 *(Currently building my portfolio as part of a 6-month Data Analyst program — first projects below.)*  
 
+- **Dice Simulator 3000 (Python)** — simulates rolling a six-sided die and compares empirical and theoretical averages.
+  Demonstrates randomness, list handling, input validation, and basic statistical reasoning in Python.
+
 - **HAL 9000 — Rock–Paper–Scissors Game** - story-driven Rock–Paper–Scissors game inspired by 2001: A Space Odyssey.
   Shows logic building, conditional structures, randomness, state tracking, and user interaction in Python.
 
