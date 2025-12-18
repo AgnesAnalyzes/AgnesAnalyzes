@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ágnes  
 
-🎓 Sociologist (M.Res) → Data Analyst in training (Oct 2025 – Mar 2026)  
+🎓 Sociologist (M.Res) → Data Analyst in training (Oct 2025 – Apr 2026)  
 📍 Berlin | Languages: DE / EN / HU  
 📊 Interests: Data analysis, labor market research, business analytics, open data  
 
