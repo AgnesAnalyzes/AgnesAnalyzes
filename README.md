@@ -18,8 +18,7 @@
 
 *(Currently building my portfolio as part of a 6-month Data Analyst program — first projects below.)*  
 
-- **Airline Database Analysis (SQL)** — models a relational airline booking system and analyzes it using business-oriented SQL queries.  
-  Demonstrates database design (ERD), primary and foreign key relationships, and analytical querying with joins, aggregations, and conditional logic.
+- **Airline Database Analysis (SQL)** — models a relational airline booking system and analyzes it using business-oriented SQL queries. Demonstrates database design (ERD), primary and   foreign key relationships, and analytical querying with joins, aggregations, and conditional logic.
   
 - **Dice Simulator 3000 (Python)** — simulates rolling a six-sided die and compares empirical and theoretical averages.
   Demonstrates randomness, list handling, input validation, and basic statistical reasoning in Python.
