@@ -1,8 +1,8 @@
-# 👋 Hi, I'm Ágnes  
+# Hi, I'm Ágnes  
 
-🎓 Sociologist (M.Res) → Data Analyst in training (Oct 2025 – Apr 2026)  
-📍 Berlin | Languages: DE / EN / HU  
-📊 Interests: Data analysis, labor market research, business analytics, open data  
+- Sociologist (M.Res) → Data Analyst in training (Oct 2025 – Apr 2026)
+-  Berlin | Languages: DE / EN / HU  
+- Interests: Data analysis, labor market research, business analytics, open data  
 
 ---
 
@@ -19,6 +19,8 @@
 *(Currently building my portfolio as part of a 6-month Data Analyst program — first projects below.)*  
 
 - **Airline Database Analysis (SQL)** — models a relational airline booking system and analyzes it using business-oriented SQL queries. Demonstrates database design (ERD), primary and   foreign key relationships, and analytical querying with joins, aggregations, and conditional logic.
+  
+- **Coffee Sales Data Preprocessing (Python)** — consolidates and cleans multi-year Excel sales data into an analysis-ready dataset. Demonstrates data preprocessing, data quality        assessment, text standardization, type conversion, duplicate handling, and documented analytical decisions using pandas.
   
 - **Dice Simulator 3000 (Python)** — simulates rolling a six-sided die and compares empirical and theoretical averages.
   Demonstrates randomness, list handling, input validation, and basic statistical reasoning in Python.
@@ -39,12 +41,12 @@
 
 ---
 
-## 🎓 Certificates
+## Certificates
 - Udemy: Statistics & Excel for Data Analysis  
 - Data Analyst (Data Science Institute, Oct 2025 – Mar 2026)  
 
 ---
 
-## 📫 Contact
-- 📧 mail@agnesmolnar.de  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/-molnar)
+## Contact
+- mail@agnesmolnar.de  
+- [LinkedIn](https://www.linkedin.com/in/-molnar)
