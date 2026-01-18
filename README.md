@@ -9,7 +9,7 @@
 ## Skills & Tools
 - **Python** (pandas, matplotlib, seaborn)
 - **SQL** (PostgreSQL, MySQL)
-- **Excel** (data cleaning, pivot tables)
+- **Excel** (data cleaning, pivot tables, VBA, PowerQuery)
 - **Visualization** (Power BI, Tableau)
 - **AWS** (in progress)
 
