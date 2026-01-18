@@ -32,7 +32,7 @@
 - **Dice Simulator 3000 (Python)** — simulates rolling a six-sided die and compares empirical and theoretical averages.
   Demonstrates randomness, list handling, input validation, and basic statistical reasoning in Python.
 
-- **HAL 9000 — Rock–Paper–Scissors Game** - story-driven Rock–Paper–Scissors game inspired by 2001: A Space Odyssey.
+- **HAL 9000 — Rock–Paper–Scissors Game(Python)** - story-driven Rock–Paper–Scissors game inspired by 2001: A Space Odyssey.
   Shows logic building, conditional structures, randomness, state tracking, and user interaction in Python.
 
 - **Calculator (Python)** — interactive console calculator supporting basic arithmetic operations.
