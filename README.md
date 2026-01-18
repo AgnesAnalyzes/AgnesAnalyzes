@@ -20,6 +20,9 @@
 
 - **Airline Database Analysis (SQL)** — models a relational airline booking system and analyzes it using business-oriented SQL queries. Demonstrates database design (ERD), primary and   foreign key relationships, and analytical querying with joins, aggregations, and conditional logic.
   
+- **Chicken Growth Analysis (Python)** — explores chicken weight development over time and evaluates the impact of different feed types using exploratory data analysis and visualization.
+  Demonstrates data visualization, descriptive statistics, grouped analysis, correlation assessment, and interpretation of growth patterns with pandas, matplotlib, and seaborn.
+  
 - **Coffee Sales Data Preprocessing (Python)** — consolidates and cleans multi-year Excel sales data into an analysis-ready dataset. Demonstrates data preprocessing, data quality        assessment, text standardization, type conversion, duplicate handling, and documented analytical decisions using pandas.
   
 - **Dice Simulator 3000 (Python)** — simulates rolling a six-sided die and compares empirical and theoretical averages.
