@@ -11,6 +11,7 @@
 - **SQL** (PostgreSQL, MySQL)
 - **Excel** (data cleaning, pivot tables)
 - **Visualization** (Power BI, Tableau)
+- **AWS** (in progress)
 
 ---
 
