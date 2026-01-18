@@ -10,7 +10,7 @@
 - **Python** (pandas, matplotlib, seaborn)
 - **SQL** (PostgreSQL, MySQL)
 - **Excel** (data cleaning, pivot tables)
-- **Visualization** (Power BI, Tableau – in progress)
+- **Visualization** (Power BI, Tableau)
 
 ---
 
@@ -21,6 +21,8 @@
 - **Airline Database Analysis (SQL)** — models a relational airline booking system and analyzes it using business-oriented SQL queries. Demonstrates database design (ERD), primary and   foreign key relationships, and analytical querying with joins, aggregations, and conditional logic.
 
 - **Sales Time Series Analysis (Python)** — analyzes daily sales data using time series techniques to uncover trend, seasonality, and irregular effects. Demonstrates data cleaning, feature engineering, business-oriented visualizations, and seasonal decomposition to derive actionable insights.
+
+- **Sales Performance Dashboard (Microsoft PowerBI)** — analyzes pharmaceutical sales data for Germany and Poland using an interactive PowerBI dashboard. Demonstrates data validation in Power Query, dimensional modeling (star schema), and business-oriented reporting for management, sales, and leadership audiences.
   
 - **Chicken Growth Analysis (Python)** — explores chicken weight development over time and evaluates the impact of different feed types using exploratory data analysis and visualization.
   Demonstrates data visualization, descriptive statistics, grouped analysis, correlation assessment, and interpretation of growth patterns with pandas, matplotlib, and seaborn.
