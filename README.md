@@ -17,7 +17,7 @@
 
 ## Projects
 
-*(Currently building my portfolio as part of a 6-month Data Analyst program — first projects below.)*  
+*(Currently building my portfolio as part of a 6-month Data Analyst program. First projects below.)*  
 
 - **Airline Database Analysis (SQL)** — models a relational airline booking system and analyzes it using business-oriented SQL queries. Demonstrates database design (ERD), primary and   foreign key relationships, and analytical querying with joins, aggregations, and conditional logic.
 
