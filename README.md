@@ -42,16 +42,16 @@
 - **Ticket Machine (Python)** — small programming project simulating a ticket vending process.  
   Demonstrates logic building, control flow, and user interaction in Python.  
 
-- **Job Mobility in Germany** — Master Thesis: sociological research project based on SOEP data.  
+- **Job Mobility in Germany (Stata)** — Master Thesis: sociological research project based on SOEP data.  
   Master’s thesis on how the quality of part-time work influences transitions into standard employment.  
-  Included statistical modeling and longitudinal data analysis (Stata).  
+  Included statistical modeling and longitudinal data analysis.  
 
 
 ---
 
 ## Certificates
 - Udemy: Statistics & Excel for Data Analysis  
-- Data Analyst (Data Science Institute, Oct 2025 – Mar 2026)  
+- Data Analyst (Data Science Institute, Oct 2025 – Apr 2026)  
 
 ---
 
